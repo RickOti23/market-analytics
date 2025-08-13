@@ -3,5 +3,7 @@
 Learning what drives the economy is not just a skill but also a talent.
 Stock market Analytics by PythonInvest is a priviledge to study this.
 
-### Project Walkthrough
-Join me in my journey as I navigate this environment
+## Project Walkthrough
+### Problem Statement
+- Build a Machine Learning Model to Predict Stock Market Prices
+- Automate it the *model*
