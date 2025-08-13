@@ -6,7 +6,7 @@ Stock market Analytics by [**PythonInvest**](https://pythoninvest.com/) is a pri
 
 A capstone project for the [Stock Markets Analytics Zoomcamp 2025](https://courses.datatalks.club/sma-zoomcamp-2025/).
 
-## THE ASK
+### **THE ASK**
 Build a Machine Learning algo trading strategy to predict Stock Prices.
 ### Implementation
 
