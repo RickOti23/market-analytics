@@ -7,7 +7,7 @@ Stock market Analytics by [**PythonInvest**](https://pythoninvest.com/) is a pri
 - Build a Machine Learning Model to Predict Stock Market Prices
 - Automate  the **model**
 
-## Project Walkthrough
+### Project Walkthrough
 - Data extraction mining.
   - API's
 - Data transformation & cleaning.
