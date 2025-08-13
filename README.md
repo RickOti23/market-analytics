@@ -1,22 +1,17 @@
 # Stock Market Analytics Project
 ---
 Learning what drives the economy is not just a skill but also a talent.
+
 Stock market Analytics by [**PythonInvest**](https://pythoninvest.com/) is a priviledge to study this.
+
 A capstone project for the [Stock Markets Analytics Zoomcamp 2024](https://courses.datatalks.club/sma-zoomcamp-2024/).
 
 ## The goal
-
 Implement a base trading strategy for top US, EU, Chinese and Indian stocks.
-
-
-## Implementation
+### Implementation
 
 Implementation is strongly based on the [code from learning materials](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/tree/main) 
 with addition of 10 Chinese stocks and some changes in prediction cases. 
-
-### Problem Statement
-- Build a Machine Learning Model to Predict Stock Market Prices
-- Automate  the **model**
 
 ### Project Walkthrough
 - *Data mining.*
