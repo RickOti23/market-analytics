@@ -18,7 +18,7 @@ Stock market Analytics by [**PythonInvest**](https://pythoninvest.com/) is a pri
   1. Train.
   2. Validation.
   3. Test split.
-- Model Deployment.
+- Model Parameters review.
 
 ### How to run the model in your Computer
 
