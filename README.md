@@ -4,7 +4,7 @@ Learning what drives the economy is not just a skill but also a talent.
 
 Stock market Analytics by [**PythonInvest**](https://pythoninvest.com/) is a priviledge to study this.
 
-A capstone project for the [Stock Markets Analytics Zoomcamp 2024](https://courses.datatalks.club/sma-zoomcamp-2025/).
+A capstone project for the [Stock Markets Analytics Zoomcamp 2025](https://courses.datatalks.club/sma-zoomcamp-2025/).
 
 ## The goal
 Implement a base trading strategy for top US, EU, Chinese and Indian stocks.
