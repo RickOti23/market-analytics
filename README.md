@@ -15,9 +15,10 @@ Stock market Analytics by [**PythonInvest**](https://pythoninvest.com/) is a pri
   - Preparation for Modelling.
 - Feature engineering, i.e creating dummys.
 - Model building.
-  - Train - Validation - Test split
+  1. Train.
+  2. Validation.
+  3. Test split.
 - Model Deployment.
 
 ### How to run the model in your Computer
-
 
