@@ -6,12 +6,12 @@ Stock market Analytics by [**PythonInvest**](https://pythoninvest.com/) is a pri
 
 A capstone project for the [Stock Markets Analytics Zoomcamp 2025](https://courses.datatalks.club/sma-zoomcamp-2025/).
 
-## The goal
-Implement a base trading strategy for top US, EU, Chinese and Indian stocks.
+## THE ASK
+Build a Machine Learning algo trading strategy to predict Stock Prices.
 ### Implementation
 
 Implementation is strongly based on the [code from learning materials](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/tree/main) 
-with addition of 10 Chinese stocks and some changes in prediction cases. 
+with addition of 10 Chinese stocks and some changes in prediction cases.
 
 ### Project Walkthrough
 - *Data mining.*
