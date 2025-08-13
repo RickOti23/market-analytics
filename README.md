@@ -6,4 +6,4 @@ Stock market Analytics by PythonInvest is a priviledge to study this.
 ## Project Walkthrough
 ### Problem Statement
 - Build a Machine Learning Model to Predict Stock Market Prices
-- Automate it the *model*
+- Automate  the **model**
