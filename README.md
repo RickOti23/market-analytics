@@ -8,17 +8,17 @@ Stock market Analytics by [**PythonInvest**](https://pythoninvest.com/) is a pri
 - Automate  the **model**
 
 ### Project Walkthrough
-- Data extraction mining.
+- *Data extraction mining.*
   - API's
-- Data transformation & cleaning.
+- *Data transformation & cleaning.*
   - Combining data from different sources.
   - Preparation for Modelling.
-- Feature engineering, i.e creating dummys.
-- Model building.
+- *Feature engineering*, i.e creating dummys.
+- *Model building.*
   1. Train.
   2. Validation.
   3. Test split.
-- Model Parameters review.
+- *Model Parameters review.*
 
 ### How to run the model in your Computer
 
