@@ -25,5 +25,23 @@ Stock tickers from:
 - *Model Parameters review.*
 
 ### How to run the model in your Computer
+### 1. Clone the Repository
+```bash
+git clone https://github.com/username/project-name.git
+cd project-name
+python -m venv venv
+source venv/bin/activate   # On macOS/Linux
+venv\Scripts\activate      # On Windows
+```
+### Create an Environment
+```bash
+python -m venv venv
+source venv/bin/activate   # On macOS/Linux
+venv\Scripts\activate      # On Windows
+```
+
+```bash
+pip install -r requirements.txt
+```
 
 
