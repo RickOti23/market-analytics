@@ -11,7 +11,11 @@ Build a Machine Learning algo trading strategy to predict Stock Prices.
 ### Implementation
 
 Implementation is strongly based on the [code from learning materials](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/tree/main) 
-with addition of 10 Chinese stocks and some changes in prediction cases.
+Stock tickers from:
+  1). USA
+  2). INDIA
+  3). CHINA
+  4). GERMANY
 
 ### Project Walkthrough
 - *Data mining.*
@@ -21,4 +25,5 @@ with addition of 10 Chinese stocks and some changes in prediction cases.
 - *Model Parameters review.*
 
 ### How to run the model in your Computer
+
 
