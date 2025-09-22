@@ -29,7 +29,7 @@ The project focuses on using RandomForestClassifier for the Machine Learning.
 ### How to run the model in your Computer
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/username/project-name.git](https://github.com/RickOti23/market-analytics.git)
+git clone https://github.com/RickOti23/market-analytics.git
 cd project-name
 python -m venv venv
 source venv/bin/activate   # On macOS/Linux
