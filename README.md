@@ -13,9 +13,9 @@ Build a Machine Learning algo trading strategy to predict Stock Prices.
 Implementation is strongly based on the [code from learning materials](https://github.com/DataTalksClub/stock-markets-analytics-zoomcamp/tree/main) 
 Stock tickers from:
   1. USA
-  - 2. INDIA
-  - 3. CHINA
-  - 4. GERMANY
+  2. INDIA
+  3. CHINA
+  4. GERMANY
 
 ### Project Walkthrough
 - *Data mining.*
@@ -33,13 +33,14 @@ python -m venv venv
 source venv/bin/activate   # On macOS/Linux
 venv\Scripts\activate      # On Windows
 ```
-### Create an Environment
+### 2. Create an Environment
 ```bash
 python -m venv venv
 source venv/bin/activate   # On macOS/Linux
 venv\Scripts\activate      # On Windows
 ```
 
+### 3. Install requirements
 ```bash
 pip install -r requirements.txt
 ```
