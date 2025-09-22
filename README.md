@@ -16,6 +16,7 @@ Stock tickers from:
   2. INDIA
   3. CHINA
   4. GERMANY
+The project focuses on using RandomForestClassifier for the Machine Learning.
 
 ### Project Walkthrough
 - *Data mining.*
